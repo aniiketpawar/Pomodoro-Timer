@@ -1,4 +1,4 @@
-# Pythom pomodoro app
+# Pythom pomodoro app with UI
 import tkinter as tk
 from tkinter import messagebox
 from ttkbootstrap import ttk, Style
